@@ -1,5 +1,5 @@
 Sub stock_1()
-    Dim total_vol As Double
+    Dim total_volume As Double
     Dim ticker As String
     Dim ticker_counter, ticker_open_close_counter As Double
     Dim yearly_open, yearly_close As Double
